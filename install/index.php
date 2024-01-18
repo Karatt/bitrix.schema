@@ -1,9 +1,9 @@
-<?
+<?php
 global $MESS;
 $PathInstall = str_replace("\\", "/", __FILE__);
 $PathInstall = substr($PathInstall, 0, strlen($PathInstall)-strlen("/index.php"));
 IncludeModuleLangFile($PathInstall."/index.php");
-Class coffeediz_schema extends CModule
+class coffeediz_schema extends CModule
 {
 	var $MODULE_ID = "coffeediz.schema";
 	var $MODULE_VERSION;
@@ -12,7 +12,7 @@ Class coffeediz_schema extends CModule
 	var $MODULE_DESCRIPTION;
 	var $MODULE_CSS;
 	var $MODULE_GROUP_RIGHTS = "Y";
-	function coffeediz_schema()
+	public function __construct()
 	{
 		$arModuleVersion = array();
 		include(dirname(__FILE__)."/version.php");
@@ -44,8 +44,8 @@ Class coffeediz_schema extends CModule
 	function InstallFiles()
 	{
         CopyDirFiles(
-            $_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/".$this->MODULE_ID."/install/components",
-            $_SERVER["DOCUMENT_ROOT"]."/bitrix/components/", true, true
+            $_SERVER["DOCUMENT_ROOT"]."/local/modules/".$this->MODULE_ID."/install/components",
+            $_SERVER["DOCUMENT_ROOT"]."/local/components/".$this->MODULE_ID, true, true
         );
 		return true;
 	}
@@ -55,7 +55,7 @@ Class coffeediz_schema extends CModule
 	function UnInstallFiles()
 	{
         DeleteDirFilesEx(
-            $_SERVER["DOCUMENT_ROOT"]."/bitrix/components/".$this->MODULE_ID."/"
+            $_SERVER["DOCUMENT_ROOT"]."/local/components/".$this->MODULE_ID."/"
         );
 		return true;
 	}

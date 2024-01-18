@@ -1,3 +1,3 @@
 <?
-$MESS ['ERROR_DESCRIPTION'] = "<b style='color: red;'>ОШИБКА: Не задано описание программы</b>";
+$MESS ['ERROR_DESCRIPTION'] = "<b style='color: red;'>РћРЁРР‘РљРђ: РќРµ Р·Р°РґР°РЅРѕ РѕРїРёСЃР°РЅРёРµ РїСЂРѕРіСЂР°РјРјС‹</b>";
 ?>

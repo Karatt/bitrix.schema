@@ -1,7 +1,7 @@
 <?
-$MESS ['COMPONENT_NAME'] = "schema.org - Àâòîìîáèëü";
+$MESS ['COMPONENT_NAME'] = "schema.org - ÐÐ²Ñ‚Ð¾Ð¼Ð¾Ð±Ð¸Ð»ÑŒ";
 $MESS ['DESCRIPTION'] = "";
-$MESS ['COMPONENT_PATH_DESCRIPTION'] = "Êîìïîíåíòû Êîôå-Äèçàéí";
+$MESS ['COMPONENT_PATH_DESCRIPTION'] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‹ ÐšÐ¾Ñ„Ðµ-Ð”Ð¸Ð·Ð°Ð¹Ð½";
 $MESS ['COMPONENT_PATH_CHILD_DESCRIPTION'] = "schema.org";
-$MESS ['COMPONENT_PATH_CHILD_CHILD_DESCRIPTION'] = "Ñëóæåáíûå";
+$MESS ['COMPONENT_PATH_CHILD_CHILD_DESCRIPTION'] = "Ð¡Ð»ÑƒÐ¶ÐµÐ±Ð½Ñ‹Ðµ";
 ?>

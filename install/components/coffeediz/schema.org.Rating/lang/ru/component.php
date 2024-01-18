@@ -1,6 +1,6 @@
 <?
-$MESS ['ERROR_RATINGVALUE'] = "<b style='color: red;'>ОШИБКА: Значение рейтинга не задано</b>";
-$MESS ['ERROR_COUNT'] = "<b style='color: red;'>ОШИБКА: Количество голосов/отзывов не задано</b>";
-$MESS ['ERROR_RATINGVALUE_MAX'] = "<b style='color: red;'>ОШИБКА: Значение рейтинга больше максимума</b>";
-$MESS ['ERROR_RATINGVALUE_MIN'] = "<b style='color: red;'>ОШИБКА: Значение рейтинга меньше минимума</b>";
+$MESS ['ERROR_RATINGVALUE'] = "<b style='color: red;'>РћРЁРР‘РљРђ: Р—РЅР°С‡РµРЅРёРµ СЂРµР№С‚РёРЅРіР° РЅРµ Р·Р°РґР°РЅРѕ</b>";
+$MESS ['ERROR_COUNT'] = "<b style='color: red;'>РћРЁРР‘РљРђ: РљРѕР»РёС‡РµСЃС‚РІРѕ РіРѕР»РѕСЃРѕРІ/РѕС‚Р·С‹РІРѕРІ РЅРµ Р·Р°РґР°РЅРѕ</b>";
+$MESS ['ERROR_RATINGVALUE_MAX'] = "<b style='color: red;'>РћРЁРР‘РљРђ: Р—РЅР°С‡РµРЅРёРµ СЂРµР№С‚РёРЅРіР° Р±РѕР»СЊС€Рµ РјР°РєСЃРёРјСѓРјР°</b>";
+$MESS ['ERROR_RATINGVALUE_MIN'] = "<b style='color: red;'>РћРЁРР‘РљРђ: Р—РЅР°С‡РµРЅРёРµ СЂРµР№С‚РёРЅРіР° РјРµРЅСЊС€Рµ РјРёРЅРёРјСѓРјР°</b>";
 ?>

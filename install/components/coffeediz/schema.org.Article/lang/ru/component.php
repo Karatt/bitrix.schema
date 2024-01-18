@@ -1,4 +1,4 @@
 <?
-$MESS ['ERROR_NAME'] = "<b style='color: red;'>ОШИБКА: поле 'Название' не задано</b>";
-$MESS ['ERROR_ARTICLEBODY'] = "<b style='color: red;'>ОШИБКА: поле 'Описание' не задано</b>";
+$MESS ['ERROR_NAME'] = "<b style='color: red;'>РћРЁРР‘РљРђ: РїРѕР»Рµ 'РќР°Р·РІР°РЅРёРµ' РЅРµ Р·Р°РґР°РЅРѕ</b>";
+$MESS ['ERROR_ARTICLEBODY'] = "<b style='color: red;'>РћРЁРР‘РљРђ: РїРѕР»Рµ 'РћРїРёСЃР°РЅРёРµ' РЅРµ Р·Р°РґР°РЅРѕ</b>";
 ?>

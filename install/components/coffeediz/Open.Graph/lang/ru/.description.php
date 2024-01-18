@@ -1,7 +1,7 @@
 <?
-$MESS ['COMPONENT_NAME'] = "Open Graph - âûâîä";
+$MESS ['COMPONENT_NAME'] = "Open Graph - Ð²Ñ‹Ð²Ð¾Ð´";
 $MESS ['DESCRIPTION'] = "";
-$MESS ['COMPONENT_PATH_DESCRIPTION'] = "Êîìïîíåíòû Êîôå-Äèçàéí";
+$MESS ['COMPONENT_PATH_DESCRIPTION'] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‹ ÐšÐ¾Ñ„Ðµ-Ð”Ð¸Ð·Ð°Ð¹Ð½";
 $MESS ['COMPONENT_PATH_CHILD_DESCRIPTION'] = "Open Graph";
-$MESS ['COMPONENT_PATH_CHILD_CHILD_DESCRIPTION'] = "Ñëóæåáíûå";
+$MESS ['COMPONENT_PATH_CHILD_CHILD_DESCRIPTION'] = "Ð¡Ð»ÑƒÐ¶ÐµÐ±Ð½Ñ‹Ðµ";
 ?>

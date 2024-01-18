@@ -1,40 +1,40 @@
 <?
-$MESS ['MAIN_PARAMS'] = "Îñíîâíûå ïàðàìåòðû";
-$MESS ['OFFER_PARAMS'] = "Ïàðàìåòðû Ïðåäëîæåíèÿ";
-$MESS ['RATING_PARAMS'] = "Ïàðàìåòðû Ðåéòèíãà";
-$MESS ['LOGO_PARAMS'] = "Ïàðàìåòðû Ëîãîòèïà";
-$MESS ['IMAGE_PARAMS'] = "Ïàðàìåòðû Êàðòèíêè";
+$MESS ['MAIN_PARAMS'] = "ÐžÑÐ½Ð¾Ð²Ð½Ñ‹Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS ['OFFER_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS ['RATING_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
+$MESS ['LOGO_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿Ð°";
+$MESS ['IMAGE_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
 
-$MESS ['PARAM_SHOW'] = "Íå îòîáðàæàòü íà ñàéòå";
-$MESS ['NAME'] = "Íàçâàíèå Òîâàðà";
-$MESS ['DESCRIPTION'] = "Îïèñàíèå Òîâàðà";
+$MESS ['PARAM_SHOW'] = "ÐÐµ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS ['NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¢Ð¾Ð²Ð°Ñ€Ð°";
+$MESS ['DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¢Ð¾Ð²Ð°Ñ€Ð°";
 
-$MESS ['PRICE'] = "Öåíà";
-$MESS ['PRICECURRENCY'] = "Âàëþòà";
+$MESS ['PRICE'] = "Ð¦ÐµÐ½Ð°";
+$MESS ['PRICECURRENCY'] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
 
-$MESS ['ItemAvailability'] = "Äîñòóïíîñòü";
-$MESS ['Discontinued'] = "Ñíÿòî ñ ïðîèçâîäñòâà";
-$MESS ['InStock'] = "Â íàëè÷èè";
-$MESS ['InStoreOnly'] = "Òîëüêî â ðîçíèöå";
-$MESS ['OnlineOnly'] = "Òîëüêî îíëàéí";
-$MESS ['LimitedAvailability'] = "Óòî÷íÿéòå íàëè÷èå";
-$MESS ['PreOrder'] = "Ïðåäçàêàç";
-$MESS ['SoldOut'] = "Ïðîäàíî";
-$MESS ['OutOfStock'] = "Íåò íà ñêëàäå";
+$MESS ['ItemAvailability'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS ['Discontinued'] = "Ð¡Ð½ÑÑ‚Ð¾ Ñ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ÑÑ‚Ð²Ð°";
+$MESS ['InStock'] = "Ð’ Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ð¸";
+$MESS ['InStoreOnly'] = "Ð¢Ð¾Ð»ÑŒÐºÐ¾ Ð² Ñ€Ð¾Ð·Ð½Ð¸Ñ†Ðµ";
+$MESS ['OnlineOnly'] = "Ð¢Ð¾Ð»ÑŒÐºÐ¾ Ð¾Ð½Ð»Ð°Ð¹Ð½";
+$MESS ['LimitedAvailability'] = "Ð£Ñ‚Ð¾Ñ‡Ð½ÑÐ¹Ñ‚Ðµ Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ðµ";
+$MESS ['PreOrder'] = "ÐŸÑ€ÐµÐ´Ð·Ð°ÐºÐ°Ð·";
+$MESS ['SoldOut'] = "ÐŸÑ€Ð¾Ð´Ð°Ð½Ð¾";
+$MESS ['OutOfStock'] = "ÐÐµÑ‚ Ð½Ð° ÑÐºÐ»Ð°Ð´Ðµ";
 
-$MESS ['itemCondition'] = "Ñîñòîÿíèå òîâàðà";
-$MESS ['NewCondition'] = "Íîâîå";
-$MESS ['UsedCondition'] = "ÁÓ";
-$MESS ['DamagedCondition'] = "Ïîâðåæä¸ííîå";
-$MESS ['RefurbishedCondition'] = "Âîññòàíîâëåííîå";
+$MESS ['itemCondition'] = "Ð¡Ð¾ÑÑ‚Ð¾ÑÐ½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS ['NewCondition'] = "ÐÐ¾Ð²Ð¾Ðµ";
+$MESS ['UsedCondition'] = "Ð‘Ð£";
+$MESS ['DamagedCondition'] = "ÐŸÐ¾Ð²Ñ€ÐµÐ¶Ð´Ñ‘Ð½Ð½Ð¾Ðµ";
+$MESS ['RefurbishedCondition'] = "Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ð¾Ðµ";
 
-$MESS ['PaymentMethod'] = "Ñïîñîá îïëàòû";
-$MESS ['ByBankTransferInAdvance'] = "Áàíêîâñêèé ïåðåâîä";
-$MESS ['ByInvoice'] = "Ñ÷¸ò";
-$MESS ['Cash'] = "Íàëè÷íûå";
-$MESS ['CheckInAdvance'] = "Ïðåäîïëàòà";
-$MESS ['COD'] = "Íàëîæíûé ïëàò¸æ";
-$MESS ['DirectDebit'] = "Ïðÿìîé äåáåò";
+$MESS ['PaymentMethod'] = "Ð¡Ð¿Ð¾ÑÐ¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS ['ByBankTransferInAdvance'] = "Ð‘Ð°Ð½ÐºÐ¾Ð²ÑÐºÐ¸Ð¹ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´";
+$MESS ['ByInvoice'] = "Ð¡Ñ‡Ñ‘Ñ‚";
+$MESS ['Cash'] = "ÐÐ°Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ";
+$MESS ['CheckInAdvance'] = "ÐŸÑ€ÐµÐ´Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS ['COD'] = "ÐÐ°Ð»Ð¾Ð¶Ð½Ñ‹Ð¹ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶";
+$MESS ['DirectDebit'] = "ÐŸÑ€ÑÐ¼Ð¾Ð¹ Ð´ÐµÐ±ÐµÑ‚";
 $MESS ['GoogleCheckout'] = "GoogleCheckout";
 $MESS ['PayPal'] = "PayPal";
 $MESS ['PaySwarm'] = "PaySwarm";
@@ -42,27 +42,20 @@ $MESS ['VISA'] = "VISA";
 $MESS ['MasterCard'] = "MasterCard";
 $MESS ['AmericanExpress'] = "AmericanExpress";
 
-$MESS ['PARAM_RATING_SHOW'] = "Âûâîäèòü ðåéòèíã";
-$MESS ['RATING_SHOW'] = "Íå îòîáðàæàòü íà ñàéòå";
-$MESS ['ratingValue'] = "Çíà÷åíèå ðåéòèíãà";
-$MESS ['ratingCount'] = "Êîëè÷åñòâî ãîëîñîâ";
-$MESS ['reviewCount'] = "Êîëè÷åñòâî îòçûâîâ";
-$MESS ['bestRating'] = "Ìàêñèìàëüíîå çíà÷åíèå ðåéòèíãà";
-$MESS ['worstRating'] = "Ìèíèìàëüíîå çíà÷åíèå ðåéòèíãà";
+$MESS ['PARAM_RATING_SHOW'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
+$MESS ['RATING_SHOW'] = "ÐÐµ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS ['ratingValue'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
+$MESS ['ratingCount'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²";
+$MESS ['reviewCount'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð·Ñ‹Ð²Ð¾Ð²";
+$MESS ['bestRating'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
+$MESS ['worstRating'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
 
-$MESS ['AggregateOffer'] = "Íàáîð èç íåñêîëüêèõ ïðåäëîæåíèé";
-$MESS ['AGGREGATEOFFER_PRICE'] = "Öåíû Ïðåäëîæåíèé èç Íàáîðà";
-$MESS ['AGGREGATEOFFER_PRICECURRENCY'] = "Âàëþòà (â ïîðÿäêå ñëåäîâàíèÿ öåí Ïðåäëîæåíèé)";
-$MESS ['lowPrice'] = "Ìèíèìàëüíàÿ öåíà â íàáîðå";
-$MESS ['highPrice'] = "Ìàêñèìàëüíàÿ öåíà â íàáîðå";
-$MESS ['offerCount'] = "Êîëè÷åñòâî ïðåäëîæåíèé â íàáîðå";
-$MESS ['AGGREGATEOFFER_PRICECURRENCY_SUMM'] = "Âàëþòà (äëÿ âñåãî Íàáîðà)";
-$MESS [''] = "";
-$MESS [''] = "";
-$MESS [''] = "";
-$MESS [''] = "";
-$MESS [''] = "";
-$MESS [''] = "";
-$MESS [''] = "";
-$MESS [''] = "";
- ?>
+$MESS ['AggregateOffer'] = "ÐÐ°Ð±Ð¾Ñ€ Ð¸Ð· Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¸Ñ… Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS ['AGGREGATEOFFER_PRICE'] = "Ð¦ÐµÐ½Ñ‹ ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð¸Ð· ÐÐ°Ð±Ð¾Ñ€Ð°";
+$MESS ['AGGREGATEOFFER_PRICECURRENCY'] = "Ð’Ð°Ð»ÑŽÑ‚Ð° (Ð² Ð¿Ð¾Ñ€ÑÐ´ÐºÐµ ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ Ñ†ÐµÐ½ ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹)";
+$MESS ['lowPrice'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ñ†ÐµÐ½Ð° Ð² Ð½Ð°Ð±Ð¾Ñ€Ðµ";
+$MESS ['highPrice'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ñ†ÐµÐ½Ð° Ð² Ð½Ð°Ð±Ð¾Ñ€Ðµ";
+$MESS ['offerCount'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð² Ð½Ð°Ð±Ð¾Ñ€Ðµ";
+$MESS ['AGGREGATEOFFER_PRICECURRENCY_SUMM'] = "Ð’Ð°Ð»ÑŽÑ‚Ð° (Ð´Ð»Ñ Ð²ÑÐµÐ³Ð¾ ÐÐ°Ð±Ð¾Ñ€Ð°)";
+
+?>

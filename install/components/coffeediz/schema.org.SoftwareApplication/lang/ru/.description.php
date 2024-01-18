@@ -1,6 +1,6 @@
 <?
-$MESS ['COMPONENT_NAME'] = "schema.org - Ïðîãðàììû";
+$MESS ['COMPONENT_NAME'] = "schema.org - ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ñ‹";
 $MESS ['DESCRIPTION'] = "";
-$MESS ['COMPONENT_PATH_DESCRIPTION'] = "Êîìïîíåíòû Êîôå-Äèçàéí";
+$MESS ['COMPONENT_PATH_DESCRIPTION'] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‹ ÐšÐ¾Ñ„Ðµ-Ð”Ð¸Ð·Ð°Ð¹Ð½";
 $MESS ['COMPONENT_PATH_CHILD_DESCRIPTION'] = "schema.org";
 ?>

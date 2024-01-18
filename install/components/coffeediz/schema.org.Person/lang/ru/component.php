@@ -1,3 +1,3 @@
 <?
-$MESS ['ERROR_NAME'] = "<b style='color: red;'>ОШИБКА: Имя не задано</b>";
+$MESS ['ERROR_NAME'] = "<b style='color: red;'>РћРЁРР‘РљРђ: РРјСЏ РЅРµ Р·Р°РґР°РЅРѕ</b>";
 ?>

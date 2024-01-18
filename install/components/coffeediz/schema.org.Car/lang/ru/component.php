@@ -1,3 +1,3 @@
 <?
-$MESS ['ERROR_MODEL'] = "<b style='color: red;'>ОШИБКА: Не указана Модель авто</b>";
+$MESS ['ERROR_MODEL'] = "<b style='color: red;'>РћРЁРР‘РљРђ: РќРµ СѓРєР°Р·Р°РЅР° РњРѕРґРµР»СЊ Р°РІС‚Рѕ</b>";
 ?>
